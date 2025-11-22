@@ -4,13 +4,14 @@
 
 # 👋 Hi, I’m M@lB3nder
 
-- 🎓 Computer Science student 
+- 🎓 Computer Science student  
 - 👀 Interested in Malware Analysis, Reverse Engineering, Windows Internals, Drivers & Kernel Development  
 - 🏃‍➡️ Actively analyzing different malware families, writing reports, and continuously learning new malware techniques  
 
 ---
 
 ## 📬 Get in Touch
+- ✉️ Email: malwareman31@gmail.com  
 - 💼 LinkedIn: [Youssef Madkour](https://www.linkedin.com/in/youssef-madkour-668891262)  
 - 🐙 Blog: [M@lB3nder](https://medium.com/@malwareBender)  
-- ✉️ Email: malwareman31@gmail.com
+- 🎥 YouTube: [Malware Bender](https://www.youtube.com/@malwareBender)
