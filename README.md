@@ -1,16 +1,16 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/4fad7654-2101-447a-8255-08735c5feb7a" width="600px">
+</p>
 
-<!--
-**MaLB3ndeR/MaLB3ndeR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I’m M@lB3nder
 
-Here are some ideas to get you started:
+- 🎓 Computer Science student / Malware Analyst  
+- 👀 Interested in Malware Analysis, Reverse Engineering, Windows Internals, Drivers & Kernel Development  
+- 🏃‍➡️ Actively analyzing different malware families, writing reports, and continuously learning new malware techniques  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📬 Get in Touch
+- 💼 LinkedIn: https://www.linkedin.com/in/youssef-madkour-668891262  
+- 🐙 Blog: https://medium.com/@malwareBender  
+- ✉️ Email: malwareman31@gmail.com  
