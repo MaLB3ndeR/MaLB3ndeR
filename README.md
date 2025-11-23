@@ -12,6 +12,6 @@
 
 ## 📬 Get in Touch
 - ✉️ Email: malwareman31@gmail.com  
-- 💼 LinkedIn: [Youssef Madkour](https://www.linkedin.com/in/youssef-madkour-668891262)  
+- 💼 LinkedIn: [Youssef Madkour](https://www.linkedin.com/in/m4lb3nder/)  
 - 🐙 Blog: [M@lB3nder](https://medium.com/@malwareBender)  
 - 🎥 YouTube: [Malware Bender](https://www.youtube.com/@malwareBender)
