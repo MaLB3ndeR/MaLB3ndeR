@@ -14,4 +14,4 @@
 - ✉️ Email: youssef.madkour0@outlook.com 
 - 💼 LinkedIn: [Youssef Madkour](https://www.linkedin.com/in/m4lb3nder/)  
 - 🐙 Blog: [M@lB3nder](https://medium.com/@malwareBender)  
-- 🎥 YouTube: [Malware Bender](https://www.youtube.com/@malwareBender)
+- 🎥 YouTube: [Malware Bender](https://www.youtube.com/@M4lB3nder)
